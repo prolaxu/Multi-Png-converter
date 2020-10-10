@@ -5,4 +5,5 @@ For Example:<br>
 --->run main.py with python3<br>
 --->c:/user/user1/desktop/pictures/<br>
 --->make use there is / on last .<br>
- enjoy !
+and run 'python3 -m pip install requirements.txt' or 'pip install requirements.txt'  or 'pip install requirements.txt'
+enjoy !
