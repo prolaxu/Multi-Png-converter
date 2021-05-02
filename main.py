@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 
 def process():
-	print("######################  Png Converter ######################")
+	print("######################  PNG Converter ######################")
 	path=input("Enter image path : ")
 	files= os.listdir(path)
 	try:
